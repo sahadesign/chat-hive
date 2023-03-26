@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/chat-hive/static/css/main.085d3796.css",
+    "main.js": "/chat-hive/static/js/main.f04e7976.js",
+    "index.html": "/chat-hive/index.html",
+    "main.085d3796.css.map": "/chat-hive/static/css/main.085d3796.css.map",
+    "main.f04e7976.js.map": "/chat-hive/static/js/main.f04e7976.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.085d3796.css",
+    "static/js/main.f04e7976.js"
+  ]
+}
